@@ -39,6 +39,7 @@
     letter-spacing: 1px;
     text-align: right;
 }
+<<<<<<< HEAD
 
 .btns {
     position: absolute;
@@ -198,3 +199,5 @@
 .form button:active {
     transform: translateY(0);
 }
+=======
+>>>>>>> parent of 9b13136 (Finish with JavaScript behaviours)
