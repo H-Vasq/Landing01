@@ -59,7 +59,7 @@
     cursor: pointer;
     color: #fff;
     border: 2px solid tomato;
-    transition: transform .3s;
+    trasnition: transform .3s;
 }
 
 .login-btn {
@@ -199,5 +199,9 @@
 .form button:active {
     transform: translateY(0);
 }
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9b13136 (Finish with JavaScript behaviours)
+=======
+
+>>>>>>> parent of 69e8320 (Try this verison)
